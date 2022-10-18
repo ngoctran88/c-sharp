@@ -1,0 +1,6 @@
+D:\NgocTran-2021\NGOC\C# - CoBan\HocC#\Hoc_VisualStudio\Bai_04\Bai_04\bin\Debug\Bai_04.exe
+D:\NgocTran-2021\NGOC\C# - CoBan\HocC#\Hoc_VisualStudio\Bai_04\Bai_04\bin\Debug\Bai_04.pdb
+D:\NgocTran-2021\NGOC\C# - CoBan\HocC#\Hoc_VisualStudio\Bai_04\Bai_04\obj\Debug\Bai_04.csprojAssemblyReference.cache
+D:\NgocTran-2021\NGOC\C# - CoBan\HocC#\Hoc_VisualStudio\Bai_04\Bai_04\obj\Debug\Bai_04.csproj.CoreCompileInputs.cache
+D:\NgocTran-2021\NGOC\C# - CoBan\HocC#\Hoc_VisualStudio\Bai_04\Bai_04\obj\Debug\Bai_04.exe
+D:\NgocTran-2021\NGOC\C# - CoBan\HocC#\Hoc_VisualStudio\Bai_04\Bai_04\obj\Debug\Bai_04.pdb
