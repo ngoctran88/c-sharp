@@ -13,8 +13,8 @@ namespace Bai_09
             Console.WriteLine("Mời bạn nhập vào số a:");
             int a = int.Parse(Console.ReadLine());
             Console.WriteLine("Căn bậc 2 của {0}={1}", a, Math.Sqrt(a));
-            Console.WriteLine("Mời bạn nhập vào số b:");
 
+            Console.WriteLine("Mời bạn nhập vào số b:");
             int b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("{0}^{1}={2}", a, b, Math.Pow(a, b));
 
