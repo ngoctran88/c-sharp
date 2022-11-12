@@ -23,8 +23,8 @@ namespace Bai_16
             {
                 Console.WriteLine("Mã=" + item.Key + "; Tên=" + item.Value);
             }
-            dic.Remove(2);
             //để xóa dữ liệu trong Dictionary ta làm như sau:
+            dic.Remove(2);           
             Console.WriteLine("Sau khi xóa phần tử có khóa chính là 2:");
             foreach (KeyValuePair<int, string> item in dic)
             {
